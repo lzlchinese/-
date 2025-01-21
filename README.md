@@ -1,4 +1,4 @@
-# -
+# my-Downloads
 记录一下我一般用的一些软件或者插件下载和安装url
 
 # postman
@@ -11,6 +11,9 @@ release downloads（macOS）：https://mac.filehorse.com/download-postman/old-ve
 10.13.6（window）：https://www.filehorse.com/download-postman/80098/download/
 
 # mongodb
-官网网址下载 https://www.mongodb.com/try/download/community
+官网网址下载：https://www.mongodb.com/try/download/community
 
-mongodb-compass可视化下载 https://www.mongodb.com/try/download/compass
+mongodb-compass可视化下载：https://www.mongodb.com/try/download/compass
+
+# nodejs
+官网网址下载：https://nodejs.org/en/download
